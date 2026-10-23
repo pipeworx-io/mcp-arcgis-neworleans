@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-neworleans",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "City of New Orleans GIS — New Orleans, Louisiana open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-30737f13465cb42152caf8454fc97de49f649ad30680a33d7c75349f50f37766",
-    "sourceCommit": "54bf7d1c06a0775508a65d0c388dd10ba75174c3"
+    "sourceHash": "v1-0c0e2acb9b179b4f837e97b5e98608c8fa4d62f62436f681ddd82f7e14e86b94",
+    "sourceCommit": "93c7d52ace03a2bb9aee5e6024f6858adab0dd04"
   }
 }
